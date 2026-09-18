@@ -8,7 +8,7 @@ my name is *nerdbone*! (a.k.a. *stinkinator* or *silly nerd*)
 i am a **transgender furry**! (bnuuy)
 ```
  n n
-<OwO>
+>OwO<
 ```
 
 ## my strengths >:3
