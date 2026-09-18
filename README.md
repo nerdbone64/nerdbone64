@@ -2,7 +2,7 @@
 
 <img src="https://github.com/nerdbone64/nerdbone64/blob/main/assets/bg1.png?raw=true" width="640px" align="center">
 
-## INTRODUCTION!!!!!!!!!!!!!! <img src="https://github.com/nerdbone64/nerdbone64/blob/main/assets/pukeko.png?raw=true" width="64px" align="center">
+## INTRODUCTION!!!!!!!!!!!!!! <img src="https://github.com/nerdbone64/nerdbone64/blob/main/assets/pukeko.png?raw=true" width="32px" align="center">
 
 my name is *nerdbone*! (a.k.a. *stinkinator* or *silly nerd*)
 i am a **transgender furry**! (bnuuy)
