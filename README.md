@@ -2,8 +2,6 @@
 
 <img src="https://github.com/nerdbone64/nerdbone64/blob/main/assets/bg1.png?raw=true" width="640px" align="center">
 
-support me on Ko-fi!!! https://ko-fi.com/nerdbone64
-
 ## INTRODUCTION!!!!!!!!!!!!!! <img src="https://github.com/nerdbone64/nerdbone64/blob/main/assets/pukeko.png?raw=true" width="32px" align="center">
 
 my name is *nerdbone*! (a.k.a. *stinkinator* or *silly nerd*)
